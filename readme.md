@@ -16,4 +16,9 @@
 - test2-query-with-check.sql : Test-2 の解答のクエリ (employee.dept_id のチェック有り)
 
 # test3 ディレクトリ
-- test3.cpp                  : Test-3 の C++ 実装
+- test3.cpp                  : Test-3 の C++ 実装のテスト用 main
+- elevator.hpp               : Test-3 の C++ 実装
+- elevator.cpp               : Test-3 の C++ 実装
+- solution.hpp               : Test-3 の C++ 実装
+- solution.cpp               : Test-3 の C++ 実装
+- run.sh                     : Test-3 の 実行スクリプト
