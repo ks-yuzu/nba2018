@@ -1,0 +1,42 @@
+[
+  {
+    "input"   : "a0Ba",
+    "exp"     : "2",
+    "comment" : "pattern 1"
+  },
+  {
+    "input"   : "a0bb",
+    "exp"     : "-1",
+    "comment" : "pattern 2"
+  },
+  {
+    "input"   : "abz0cc123ppx",
+    "exp"     : "-1",
+    "comment" : "pattern 3"
+  },
+  {
+    "input"   : "WIDyAKOMsI1VKCHG6OKJ",
+    "exp"     : "10",
+    "comment" : "pattern 4"
+  },
+  {
+    "input"   : "uCYasHiYN5hX7EjDcscM",
+    "exp"     : "9",
+    "comment" : "pattern 5"
+  },
+  {
+    "input"   : "fhie7BA3vnhcetvmzcyz",
+    "exp"     : "2",
+    "comment" : "pattern 6"
+  },
+  {
+    "input"   : "f59nCJqhpaQPXNyp3evs",
+    "exp"     : "13",
+    "comment" : "pattern 7"
+  },
+  {
+    "input"   : "aWqNBkRAqRjfezKViPHg",
+    "exp"     : "20",
+    "comment" : "pattern 8"
+  }
+]
